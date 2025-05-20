@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "jiacong.jpg"
-  name             : "Jiacong Xu"
+  name             : "Jiacong Xu (徐嘉聪)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD Candicate @ JHU CS"
   location         : "Baltimore, U.S.A."
   employer         : "Johns Hopkins University"
   uri              : # URL
