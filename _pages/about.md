@@ -114,6 +114,21 @@ Selected Publications
 
 <div class="pub-entry">
   <div class="pub-thumbnail">
+    <img src="images/xyscannet.png" alt="ReGS">
+  </div>
+  <div class="pub-info">
+    <b>XYScanNet: A State Space Model for Single Image Deblurring</b><br>
+    Hanzhou Liu, Chengkai Liu, <b>Jiacong Xu</b>, Peng Jiang, Mi Lu<br>
+    <i>CVPRW 2025</i>
+    <div class="buttons">
+      <a href="https://arxiv.org/abs/your-paper-link1" target="_blank">PDF</a>
+      <a href="https://your-project-page1.com" target="_blank">Project Page</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-thumbnail">
     <img src="images/wildgs.jpg" alt="ReGS">
   </div>
   <div class="pub-info">
