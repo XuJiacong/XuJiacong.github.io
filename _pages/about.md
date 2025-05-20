@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD student in Department of Computer Science of Johns Hopkins University and supervised by Prof. Vishal Patel in VIU Lab. Before my PhD study, I worked with Dr. Adam Kortylewski and Prof. Alan L. Yuille as a research intern in CCVL. I completed my M.Sc degree in Texas A&M University and worked closely with Prof. Shankar P. Bhattacharyya and Prof. Zixiang Xiong. Before coming to U.S., I obtained my bachelor degree from University of Science & Technology of China (USTC).
+I am a second-year PhD student in Department of Computer Science of Johns Hopkins University and supervised by Prof. [Vishal Patel](https://engineering.jhu.edu/faculty/vishal-patel/) in [VIU](https://engineering.jhu.edu/vpatel36/team/vishalpatel/) Lab. I completed my M.Sc degree in Texas A&M University and worked closely with Prof. Shankar P. Bhattacharyya on Control Theory. Before coming to U.S., I obtained my bachelor degree from University of Science & Technology of China (USTC).
 
 News
 ======
-- [2025.3] Two paper were accepted by CVPR 2025 and selected as Highlight!
+- \[**2025.3**\] Two paper were accepted by CVPR 2025 and selected as **Highlight**!
 
 Current and Past Affiliations
 ======
