@@ -18,6 +18,8 @@ News
 
 Selected Publications
 ======
+<h2>Selected Publications</h2>
+
 <style>
   .pub-entry {
     display: flex;
@@ -25,12 +27,22 @@ Selected Publications
     margin-bottom: 32px;
     flex-wrap: wrap;
   }
-  .pub-entry img {
+  .pub-thumbnail {
     width: 260px;
+    height: 160px;
+    background-color: #f7f7f7;
     border-radius: 8px;
-    object-fit: cover;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.08);
     flex-shrink: 0;
+  }
+  .pub-thumbnail img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    border-radius: 4px;
   }
   .pub-info {
     margin-left: 24px;
@@ -69,10 +81,12 @@ Selected Publications
 
 <!-- Paper 1 -->
 <div class="pub-entry">
-  <img src="images/regs.png" alt="ReGS">
+  <div class="pub-thumbnail">
+    <img src="images/regs.png" alt="ReGS">
+  </div>
   <div class="pub-info">
     <b>Reference-based Controllable Scene Stylization with Gaussian Splatting</b><br>
-    Yiqun Mei*, <b>Jiacong Xu*</b>, Vishal M. Patel (* Equal Contribution)<br>
+    Yiqun Mei*, <b>Jiacong Xu*</b>, Vishal M. Patel<br>
     <i>NeurIPS 2024</i><br><br>
     <div class="buttons">
       <a href="https://arxiv.org/abs/your-paper-link1" target="_blank">PDF</a>
@@ -80,6 +94,7 @@ Selected Publications
     </div>
   </div>
 </div>
+
 
 
 
