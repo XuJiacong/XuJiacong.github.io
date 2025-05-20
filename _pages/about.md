@@ -202,6 +202,21 @@ Selected Publications
   </div>
 </div>
 
+<div class="pub-entry">
+  <div class="pub-thumbnail">
+    <img src="images/ev_ill.png" alt="ReGS">
+  </div>
+  <div class="pub-info">
+    <b>Communication-Efficient Design of Learning System for Energy Demand Forecasting of Electrical Vehicles</b><br>
+    <b>Jiacong Xu*</b>, Riley Kilfoyle, Zixiang Xiong, Ligang Lu<br>
+    <i>APSIPA ASC 2023</i>
+    <div class="buttons">
+      <a href="https://arxiv.org/abs/your-paper-link1" target="_blank">PDF</a>
+      <a href="https://your-project-page1.com" target="_blank">Project Page</a>
+    </div>
+  </div>
+</div>
+
 
 
 
