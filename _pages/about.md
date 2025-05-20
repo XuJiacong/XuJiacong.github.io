@@ -15,23 +15,31 @@ News
 ======
 - \[**2025.3**\] Two paper were accepted by CVPR 2025 and selected as **Highlight**!
 
-Current and Past Affiliations
-======
-<p align="left">
-  <a href="https://www.jhu.edu/" target="_blank">
-    <img src="images/jhu.png" alt="JHU" height="5">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.tamu.edu/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Texas_A%26M_University_logo.svg/2560px-Texas_A%26M_University_logo.svg.png" alt="Texas A&M" height="40">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://en.ustc.edu.cn/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/en/3/3b/University_of_Science_and_Technology_of_China_logo.png" alt="USTC" height="40">
-  </a>
-</p>
 
 Selected Publications
-------
+======
+<!-- Paper 1 -->
+<table>
+  <tr>
+    <td width="35%">
+      <img src="images/regs.png" alt="ReGS" style="width:100%; border-radius:8px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 20px;">
+      <b>Reference-based Controllable Scene Stylization with Gaussian Splatting</b><br>
+      <b>Yiqun Mei</b>, Jiacong Xu, Vishal M. Patel<br>
+      <i>NeurIPS 2024</i><br><br>
+      <a href="https://arxiv.org/abs/your-paper-link1" target="_blank" style="text-decoration:none;">
+        <button style="padding:6px 12px; margin-right: 10px;">PDF</button>
+      </a>
+      <a href="https://your-project-page1.com" target="_blank" style="text-decoration:none;">
+        <button style="padding:6px 12px;">Project Page</button>
+      </a>
+    </td>
+  </tr>
+</table>
+<br>
+
+<!-- Paper 2 -->
+
 
 
