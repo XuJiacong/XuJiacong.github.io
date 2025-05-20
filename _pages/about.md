@@ -15,14 +15,21 @@ News
 
 Current and Past Affiliations
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+<p align="left">
+  <a href="https://www.jhu.edu/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Johns_Hopkins_University_logo.svg/2560px-Johns_Hopkins_University_logo.svg.png" alt="JHU" height="40">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.tamu.edu/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Texas_A%26M_University_logo.svg/2560px-Texas_A%26M_University_logo.svg.png" alt="Texas A&M" height="40">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://en.ustc.edu.cn/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/en/3/3b/University_of_Science_and_Technology_of_China_logo.png" alt="USTC" height="40">
+  </a>
+</p>
 
 Selected Publications
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+
 
