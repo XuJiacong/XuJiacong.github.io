@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<iframe src="files/my_cv.pdf" width="85%" height="800px"></iframe>
+Download my resume [here](files/my_cv.pdf).
