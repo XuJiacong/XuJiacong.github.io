@@ -96,8 +96,8 @@ Selected Publications
     <b>Jiacong Xu</b>, Shao-Yuan Lo, Bardia Safaei, Vishal M. Patel, Isht Dwivedi<br>
     <i>CVPR 2025 Highlight</i>
     <div class="buttons">
-      <a href="https://arxiv.org/abs/your-paper-link1" target="_blank">PDF</a>
-      <a href="https://your-project-page1.com" target="_blank">Project Page</a>
+      <a href="https://arxiv.org/pdf/2502.07601" target="_blank">PDF</a>
+      <a href="https://xujiacong.github.io/Anomaly-OV/" target="_blank">Project Page</a>
     </div>
   </div>
 </div>
@@ -111,8 +111,8 @@ Selected Publications
     Bardia Safaei, Faizan Siddiqui, <b>Jiacong Xu</b>, Vishal M. Patel, Shao-Yuan Lo<br>
     <i>CVPR 2025 Highlight</i>
     <div class="buttons">
-      <a href="https://arxiv.org/abs/your-paper-link1" target="_blank">PDF</a>
-      <a href="https://your-project-page1.com" target="_blank">Project Page</a>
+      <a href="https://arxiv.org/pdf/2503.07591" target="_blank">PDF</a>
+      <a href="https://bardisafa.github.io/PreSel/" target="_blank">Project Page</a>
     </div>
   </div>
 </div>
@@ -126,8 +126,8 @@ Selected Publications
     Hanzhou Liu, Chengkai Liu, <b>Jiacong Xu</b>, Peng Jiang, Mi Lu<br>
     <i>CVPRW 2025</i>
     <div class="buttons">
-      <a href="https://arxiv.org/abs/your-paper-link1" target="_blank">PDF</a>
-      <a href="https://your-project-page1.com" target="_blank">Project Page</a>
+      <a href="https://arxiv.org/pdf/2412.10338" target="_blank">PDF</a>
+      <a href="https://www.jiacongxu.net" target="_blank">Project Page (TBD)</a>
     </div>
   </div>
 </div>
