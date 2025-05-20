@@ -69,7 +69,7 @@ Selected Publications
 
 <!-- Paper 1 -->
 <div class="pub-entry">
-  <img src="assets/img/ReGS.png" alt="ReGS">
+  <img src="images/regs.png" alt="ReGS">
   <div class="pub-info">
     <b>Reference-based Controllable Scene Stylization with Gaussian Splatting</b><br>
     <b>Yiqun Mei</b>, Jiacong Xu, Vishal M. Patel<br>
