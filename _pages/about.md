@@ -30,10 +30,23 @@ Selected Publications
     border-radius: 8px;
     object-fit: cover;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    flex-shrink: 0;
   }
   .pub-info {
     margin-left: 24px;
     max-width: 600px;
+    flex: 1;
+  }
+  @media (max-width: 768px) {
+    .pub-entry {
+      flex-direction: column;
+      align-items: center;
+    }
+    .pub-info {
+      margin-left: 0;
+      margin-top: 16px;
+      text-align: center;
+    }
   }
   .pub-info b {
     font-size: 17px;
@@ -44,7 +57,7 @@ Selected Publications
   .pub-info .buttons a {
     display: inline-block;
     padding: 6px 12px;
-    margin-right: 10px;
+    margin: 10px 10px 0 0;
     background: #222;
     color: white;
     text-decoration: none;
@@ -56,7 +69,7 @@ Selected Publications
 
 <!-- Paper 1 -->
 <div class="pub-entry">
-  <img src="images/regs.png" alt="ReGS">
+  <img src="assets/img/ReGS.png" alt="ReGS">
   <div class="pub-info">
     <b>Reference-based Controllable Scene Stylization with Gaussian Splatting</b><br>
     <b>Yiqun Mei</b>, Jiacong Xu, Vishal M. Patel<br>
@@ -68,7 +81,6 @@ Selected Publications
   </div>
 </div>
 
-<!-- Paper 2 -->
 
 
 
