@@ -156,7 +156,7 @@ Selected Publications
     Yiqun Mei*, <b>Jiacong Xu*</b>, Vishal M. Patel<br>
     <i>NeurIPS 2024</i>
     <div class="buttons">
-      <a href="https://arxiv.org/pdf/2412.10338" target="_blank">PDF</a>
+      <a href="https://arxiv.org/pdf/2407.07220" target="_blank">PDF</a>
       <a href="https://yiqunmei.net/regs-web/" target="_blank">Project Page</a>
     </div>
   </div>
