@@ -72,7 +72,7 @@ Selected Publications
   <img src="images/regs.png" alt="ReGS">
   <div class="pub-info">
     <b>Reference-based Controllable Scene Stylization with Gaussian Splatting</b><br>
-    <b>Yiqun Mei</b>, Jiacong Xu, Vishal M. Patel<br>
+    Yiqun Mei*, <b>Jiacong Xu*</b>, Vishal M. Patel (* Equal Contribution)<br>
     <i>NeurIPS 2024</i><br><br>
     <div class="buttons">
       <a href="https://arxiv.org/abs/your-paper-link1" target="_blank">PDF</a>
