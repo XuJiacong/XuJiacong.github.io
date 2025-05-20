@@ -13,7 +13,12 @@ I am a second-year PhD student in Department of Computer Science of Johns Hopkin
 
 News
 ======
-- \[**2025.3**\] Two paper were accepted by CVPR 2025 and selected as **Highlight**!
+- **\[2025.5\]** One paper was accepted by CVPRW 2025!
+- **\[2025.3\]** Two paper were accepted by CVPR 2025 and selected as **Highlight**!
+- **\[2024.8\]** Two paper were accepted by NeurIPS 2024!
+- **\[2024.6\]** One paper was accepted by ECCV 2024!
+- **\[2023.6\]** One paper was accepted by ICCV 2023!
+- **\[2023.3\]** One paper was accepted by CVPR 2023!
 
 
 Selected Publications
@@ -193,7 +198,7 @@ Selected Publications
   </div>
   <div class="pub-info">
     <b>PIDNet: A Real-time Semantic Segmentation Network Inspired by PID Controllers</b><br>
-    <b>Jiacong Xu*</b>, Zixiang Xiong, Shankar P Bhattacharyya<br>
+    <b>Jiacong Xu</b>, Zixiang Xiong, Shankar P Bhattacharyya<br>
     <i>CVPR 2023</i>
     <div class="buttons">
       <a href="https://arxiv.org/abs/your-paper-link1" target="_blank">PDF</a>
@@ -208,7 +213,7 @@ Selected Publications
   </div>
   <div class="pub-info">
     <b>Communication-Efficient Design of Learning System for Energy Demand Forecasting of Electrical Vehicles</b><br>
-    <b>Jiacong Xu*</b>, Riley Kilfoyle, Zixiang Xiong, Ligang Lu<br>
+    <b>Jiacong Xu</b>, Riley Kilfoyle, Zixiang Xiong, Ligang Lu<br>
     <i>APSIPA ASC 2023</i>
     <div class="buttons">
       <a href="https://arxiv.org/abs/your-paper-link1" target="_blank">PDF</a>
