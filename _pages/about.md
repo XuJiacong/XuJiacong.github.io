@@ -127,7 +127,7 @@ Selected Publications
     <i>CVPRW 2025</i>
     <div class="buttons">
       <a href="https://arxiv.org/pdf/2412.10338" target="_blank">PDF</a>
-      <a href="https://www.jiacongxu.net" target="_blank">Project Page (TBD)</a>
+      <a href="https://www.jiacongxu.net" target="_blank">Project Page</a>
     </div>
   </div>
 </div>
@@ -141,8 +141,8 @@ Selected Publications
     <b>Jiacong Xu</b>, Yiqun Mei, Vishal M. Patel<br>
     <i>NeurIPS 2024</i>
     <div class="buttons">
-      <a href="https://arxiv.org/abs/your-paper-link1" target="_blank">PDF</a>
-      <a href="https://your-project-page1.com" target="_blank">Project Page</a>
+      <a href="https://arxiv.org/pdf/2406.10373" target="_blank">PDF</a>
+      <a href="https://www.jiacongxu.net" target="_blank">Project Page</a>
     </div>
   </div>
 </div>
@@ -156,8 +156,8 @@ Selected Publications
     Yiqun Mei*, <b>Jiacong Xu*</b>, Vishal M. Patel<br>
     <i>NeurIPS 2024</i>
     <div class="buttons">
-      <a href="https://arxiv.org/abs/your-paper-link1" target="_blank">PDF</a>
-      <a href="https://your-project-page1.com" target="_blank">Project Page</a>
+      <a href="https://arxiv.org/pdf/2412.10338" target="_blank">PDF</a>
+      <a href="https://yiqunmei.net/regs-web/" target="_blank">Project Page</a>
     </div>
   </div>
 </div>
@@ -171,8 +171,8 @@ Selected Publications
     <b>Jiacong Xu</b>, Mingqian Liao, Ram Prabhakar Kathirvel, Vishal M. Patel<br>
     <i>ECCV 2024</i>
     <div class="buttons">
-      <a href="https://arxiv.org/abs/your-paper-link1" target="_blank">PDF</a>
-      <a href="https://your-project-page1.com" target="_blank">Project Page</a>
+      <a href="https://arxiv.org/pdf/2403.14053" target="_blank">PDF</a>
+      <a href="https://www.jiacongxu.net" target="_blank">Project Page</a>
     </div>
   </div>
 </div>
@@ -186,8 +186,8 @@ Selected Publications
     <b>Jiacong Xu</b>, Yi Zhang, ..., Alan Yuille, Adam Kortylewski<br>
     <i>ICCV 2023</i>
     <div class="buttons">
-      <a href="https://arxiv.org/abs/your-paper-link1" target="_blank">PDF</a>
-      <a href="https://your-project-page1.com" target="_blank">Project Page</a>
+      <a href="https://arxiv.org/pdf/2308.11737" target="_blank">PDF</a>
+      <a href="https://xujiacong.github.io/Animal3D/" target="_blank">Project Page</a>
     </div>
   </div>
 </div>
@@ -201,8 +201,8 @@ Selected Publications
     <b>Jiacong Xu</b>, Zixiang Xiong, Shankar P Bhattacharyya<br>
     <i>CVPR 2023</i>
     <div class="buttons">
-      <a href="https://arxiv.org/abs/your-paper-link1" target="_blank">PDF</a>
-      <a href="https://your-project-page1.com" target="_blank">Project Page</a>
+      <a href="https://arxiv.org/pdf/2206.02066" target="_blank">PDF</a>
+      <a href="https://github.com/XuJiacong/PIDNet" target="_blank">Project Page</a>
     </div>
   </div>
 </div>
@@ -216,8 +216,8 @@ Selected Publications
     <b>Jiacong Xu</b>, Riley Kilfoyle, Zixiang Xiong, Ligang Lu<br>
     <i>APSIPA ASC 2023</i>
     <div class="buttons">
-      <a href="https://arxiv.org/abs/your-paper-link1" target="_blank">PDF</a>
-      <a href="https://your-project-page1.com" target="_blank">Project Page</a>
+      <a href="https://arxiv.org/pdf/2309.01297" target="_blank">PDF</a>
+      <a href="https://github.com/XuJiacong/LoGTST_PSGF" target="_blank">Project Page</a>
     </div>
   </div>
 </div>
