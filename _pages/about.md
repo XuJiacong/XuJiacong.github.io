@@ -17,7 +17,7 @@ Current and Past Affiliations
 ======
 <p align="left">
   <a href="https://www.jhu.edu/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Johns_Hopkins_University_logo.svg/2560px-Johns_Hopkins_University_logo.svg.png" alt="JHU" height="40">
+    <img src=images/jhu.png alt="JHU" height="40">
   </a>
   &nbsp;&nbsp;
   <a href="https://www.tamu.edu/" target="_blank">
