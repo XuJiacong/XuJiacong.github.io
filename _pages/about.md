@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am a second-year PhD student in Department of Computer Science of Johns Hopkins University and supervised by Prof. Vishal Patel in VIU Lab. Before my PhD study, I worked with Dr. Adam Kortylewski and Prof. Alan L. Yuille as a research intern in CCVL. I completed my M.Sc degree in Texas A&M University and worked closely with Prof. Shankar P. Bhattacharyya and Prof. Zixiang Xiong. Before coming to U.S., I obtained my bachelor degree from University of Science & Technology of China (USTC).
 
 A data-driven personal website
 ======
