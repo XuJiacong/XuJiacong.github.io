@@ -12,25 +12,9 @@ author_profile: true
 {% include base_path %}
 
 <!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
-
-
+<div style="margin-bottom: 16px;">
+  Safaei, Bardia, Faizan Siddiqui, Jiacong Xu, Vishal M. Patel, and Shao-Yuan Lo.<br>
+  <span style="font-style: italic;">"Filter Images First, Generate Instructions Later: Pre-Instruction Data Selection for Visual Instruction Tuning."</span><br>
+  arXiv preprint <b>arXiv:2503.07591</b> (2025).<br>
+  <a href="https://arxiv.org/abs/2503.07591" target="_blank">[PDF]</a>
+</div>
