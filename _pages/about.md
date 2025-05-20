@@ -174,6 +174,21 @@ Selected Publications
 
 <div class="pub-entry">
   <div class="pub-thumbnail">
+    <img src="images/animal3d.png" alt="ReGS">
+  </div>
+  <div class="pub-info">
+    <b>Animal3D: A Comprehensive Dataset of 3D Animal Pose and Shape</b><br>
+    <b>Jiacong Xu</b>, Yi Zhang, ..., Alan Yuille, Adam Kortylewski<br>
+    <i>ICCV 2023</i>
+    <div class="buttons">
+      <a href="https://arxiv.org/abs/your-paper-link1" target="_blank">PDF</a>
+      <a href="https://your-project-page1.com" target="_blank">Project Page</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-thumbnail">
     <img src="images/pidnet.png" alt="ReGS">
   </div>
   <div class="pub-info">
