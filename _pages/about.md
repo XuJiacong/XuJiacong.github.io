@@ -82,9 +82,36 @@ Selected Publications
   }
 </style>
 
-<!-- Paper 1 -->
+<div class="pub-entry">
+  <div class="pub-thumbnail">
+    <img src="images/anomalyov.png" alt="ReGS">
+  </div>
+  <div class="pub-info">
+    <b>Towards Zero-Shot Anomaly Detection and Reasoning with Multimodal Large Language Models</b><br>
+    <b>Jiacong Xu</b>, Shao-Yuan Lo, Bardia Safaei, Vishal M Patel, Isht Dwivedi<br>
+    <i>CVPR 2025 Highlight</i>
+    <div class="buttons">
+      <a href="https://arxiv.org/abs/your-paper-link1" target="_blank">PDF</a>
+      <a href="https://your-project-page1.com" target="_blank">Project Page</a>
+    </div>
+  </div>
+</div>
 
-<!-- Paper 1 -->
+<div class="pub-entry">
+  <div class="pub-thumbnail">
+    <img src="images/presel.png" alt="ReGS">
+  </div>
+  <div class="pub-info">
+    <b>Filter Images First, Generate Instructions Later: Pre-Instruction Data Selection for Visual Instruction Tuning</b><br>
+    Bardia Safaei, Faizan Siddiqui, <b>Jiacong Xu</b>, Vishal M Patel, Shao-Yuan Lo<br>
+    <i>CVPR 2025 Highlight</i>
+    <div class="buttons">
+      <a href="https://arxiv.org/abs/your-paper-link1" target="_blank">PDF</a>
+      <a href="https://your-project-page1.com" target="_blank">Project Page</a>
+    </div>
+  </div>
+</div>
+
 <div class="pub-entry">
   <div class="pub-thumbnail">
     <img src="images/wildgs.jpg" alt="ReGS">
@@ -108,6 +135,21 @@ Selected Publications
     <b>Reference-based Controllable Scene Stylization with Gaussian Splatting</b><br>
     Yiqun Mei*, <b>Jiacong Xu*</b>, Vishal M. Patel<br>
     <i>NeurIPS 2024</i>
+    <div class="buttons">
+      <a href="https://arxiv.org/abs/your-paper-link1" target="_blank">PDF</a>
+      <a href="https://your-project-page1.com" target="_blank">Project Page</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-thumbnail">
+    <img src="images/pidnet.png" alt="ReGS">
+  </div>
+  <div class="pub-info">
+    <b>PIDNet: A Real-time Semantic Segmentation Network Inspired by PID Controllers</b><br>
+    <b>Jiacong Xu*</b>, Zixiang Xiong, Shankar P Bhattacharyya<br>
+    <i>CVPR 2023</i>
     <div class="buttons">
       <a href="https://arxiv.org/abs/your-paper-link1" target="_blank">PDF</a>
       <a href="https://your-project-page1.com" target="_blank">Project Page</a>
