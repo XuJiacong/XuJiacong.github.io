@@ -159,6 +159,21 @@ Selected Publications
 
 <div class="pub-entry">
   <div class="pub-thumbnail">
+    <img src="images/thermalnerf.png" alt="ReGS">
+  </div>
+  <div class="pub-info">
+    <b>Leveraging Thermal Modality to Enhance Reconstruction in Low-Light Conditions</b><br>
+    <b>Jiacong Xu</b>, Mingqian Liao, Ram Prabhakar Kathirvel, Vishal M Patel<br>
+    <i>ECCV 2024</i>
+    <div class="buttons">
+      <a href="https://arxiv.org/abs/your-paper-link1" target="_blank">PDF</a>
+      <a href="https://your-project-page1.com" target="_blank">Project Page</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-thumbnail">
     <img src="images/pidnet.png" alt="ReGS">
   </div>
   <div class="pub-info">
