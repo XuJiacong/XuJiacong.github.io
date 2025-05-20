@@ -18,26 +18,55 @@ News
 
 Selected Publications
 ======
+<style>
+  .pub-entry {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 32px;
+    flex-wrap: wrap;
+  }
+  .pub-entry img {
+    width: 260px;
+    border-radius: 8px;
+    object-fit: cover;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  }
+  .pub-info {
+    margin-left: 24px;
+    max-width: 600px;
+  }
+  .pub-info b {
+    font-size: 17px;
+  }
+  .pub-info i {
+    color: #555;
+  }
+  .pub-info .buttons a {
+    display: inline-block;
+    padding: 6px 12px;
+    margin-right: 10px;
+    background: #222;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    font-size: 14px;
+    box-shadow: 1px 1px 2px rgba(0,0,0,0.2);
+  }
+</style>
+
 <!-- Paper 1 -->
-<table>
-  <tr>
-    <td width="35%">
-      <img src="images/regs.png" alt="ReGS" style="width:100%; border-radius:8px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 20px;">
-      <b>Reference-based Controllable Scene Stylization with Gaussian Splatting</b><br>
-      <b>Yiqun Mei</b>, Jiacong Xu, Vishal M. Patel<br>
-      <i>NeurIPS 2024</i><br><br>
-      <a href="https://arxiv.org/abs/your-paper-link1" target="_blank" style="text-decoration:none;">
-        <button style="padding:6px 12px; margin-right: 10px;">PDF</button>
-      </a>
-      <a href="https://your-project-page1.com" target="_blank" style="text-decoration:none;">
-        <button style="padding:6px 12px;">Project Page</button>
-      </a>
-    </td>
-  </tr>
-</table>
-<br>
+<div class="pub-entry">
+  <img src="images/regs.png" alt="ReGS">
+  <div class="pub-info">
+    <b>Reference-based Controllable Scene Stylization with Gaussian Splatting</b><br>
+    <b>Yiqun Mei</b>, Jiacong Xu, Vishal M. Patel<br>
+    <i>NeurIPS 2024</i><br><br>
+    <div class="buttons">
+      <a href="https://arxiv.org/abs/your-paper-link1" target="_blank">PDF</a>
+      <a href="https://your-project-page1.com" target="_blank">Project Page</a>
+    </div>
+  </div>
+</div>
 
 <!-- Paper 2 -->
 
