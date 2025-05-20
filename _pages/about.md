@@ -65,11 +65,16 @@ Selected Publications
   }
   .pub-info i {
     color: #555;
+    display: block;
+    margin-top: 4px;
+  }
+  .pub-info .buttons {
+    margin-top: 6px;
   }
   .pub-info .buttons a {
     display: inline-block;
     padding: 6px 12px;
-    margin: 10px 10px 0 0;
+    margin-right: 10px;
     background: #222;
     color: white;
     text-decoration: none;
@@ -87,7 +92,7 @@ Selected Publications
   <div class="pub-info">
     <b>Reference-based Controllable Scene Stylization with Gaussian Splatting</b><br>
     Yiqun Mei*, <b>Jiacong Xu*</b>, Vishal M. Patel<br>
-    <i>NeurIPS 2024</i><br>
+    <i>NeurIPS 2024</i>
     <div class="buttons">
       <a href="https://arxiv.org/abs/your-paper-link1" target="_blank">PDF</a>
       <a href="https://your-project-page1.com" target="_blank">Project Page</a>
