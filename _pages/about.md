@@ -88,7 +88,7 @@ Selected Publications
   </div>
   <div class="pub-info">
     <b>Towards Zero-Shot Anomaly Detection and Reasoning with Multimodal Large Language Models</b><br>
-    <b>Jiacong Xu</b>, Shao-Yuan Lo, Bardia Safaei, Vishal M Patel, Isht Dwivedi<br>
+    <b>Jiacong Xu</b>, Shao-Yuan Lo, Bardia Safaei, Vishal M. Patel, Isht Dwivedi<br>
     <i>CVPR 2025 Highlight</i>
     <div class="buttons">
       <a href="https://arxiv.org/abs/your-paper-link1" target="_blank">PDF</a>
@@ -103,7 +103,7 @@ Selected Publications
   </div>
   <div class="pub-info">
     <b>Filter Images First, Generate Instructions Later: Pre-Instruction Data Selection for Visual Instruction Tuning</b><br>
-    Bardia Safaei, Faizan Siddiqui, <b>Jiacong Xu</b>, Vishal M Patel, Shao-Yuan Lo<br>
+    Bardia Safaei, Faizan Siddiqui, <b>Jiacong Xu</b>, Vishal M. Patel, Shao-Yuan Lo<br>
     <i>CVPR 2025 Highlight</i>
     <div class="buttons">
       <a href="https://arxiv.org/abs/your-paper-link1" target="_blank">PDF</a>
@@ -163,7 +163,7 @@ Selected Publications
   </div>
   <div class="pub-info">
     <b>Leveraging Thermal Modality to Enhance Reconstruction in Low-Light Conditions</b><br>
-    <b>Jiacong Xu</b>, Mingqian Liao, Ram Prabhakar Kathirvel, Vishal M Patel<br>
+    <b>Jiacong Xu</b>, Mingqian Liao, Ram Prabhakar Kathirvel, Vishal M. Patel<br>
     <i>ECCV 2024</i>
     <div class="buttons">
       <a href="https://arxiv.org/abs/your-paper-link1" target="_blank">PDF</a>
