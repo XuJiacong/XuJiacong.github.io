@@ -83,6 +83,23 @@ Selected Publications
 </style>
 
 <!-- Paper 1 -->
+
+<!-- Paper 1 -->
+<div class="pub-entry">
+  <div class="pub-thumbnail">
+    <img src="images/wildgs.jpg" alt="ReGS">
+  </div>
+  <div class="pub-info">
+    <b>Wild-GS: Real-Time Novel View Synthesis from Unconstrained Photo Collections</b><br>
+    <b>Jiacong Xu</b>, Yiqun Mei, Vishal M. Patel<br>
+    <i>NeurIPS 2024</i>
+    <div class="buttons">
+      <a href="https://arxiv.org/abs/your-paper-link1" target="_blank">PDF</a>
+      <a href="https://your-project-page1.com" target="_blank">Project Page</a>
+    </div>
+  </div>
+</div>
+
 <div class="pub-entry">
   <div class="pub-thumbnail">
     <img src="images/regs.png" alt="ReGS">
