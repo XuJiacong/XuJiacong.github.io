@@ -19,7 +19,7 @@ Current and Past Affiliations
 ======
 <p align="left">
   <a href="https://www.jhu.edu/" target="_blank">
-    <img src="images/jhu.png" alt="JHU" height="40">
+    <img src="images/jhu.png" alt="JHU" height="5">
   </a>
   &nbsp;&nbsp;
   <a href="https://www.tamu.edu/" target="_blank">
