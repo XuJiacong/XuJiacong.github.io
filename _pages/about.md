@@ -18,8 +18,6 @@ News
 
 Selected Publications
 ======
-<h2>Selected Publications</h2>
-
 <style>
   .pub-entry {
     display: flex;
