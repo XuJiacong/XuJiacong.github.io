@@ -89,7 +89,22 @@ Selected Publications
 
 <div class="pub-entry">
   <div class="pub-thumbnail">
-    <img src="images/anomalyov.png" alt="ReGS">
+    <img src="images/freevis.png" alt="FreeViS">
+  </div>
+  <div class="pub-info">
+    <b>FreeViS: Training-free Video Stylization with Inconsistent References</b><br>
+    <b>Jiacong Xu</b>, Yiqun Mei, Ke Zhang, Vishal M. Patel<br>
+    <i>Under Review</i>
+    <div class="buttons">
+      <a href="https://arxiv.org/pdf/2510.01686" target="_blank">PDF</a>
+      <a href="https://xujiacong.github.io/FreeViS/" target="_blank">Project Page</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-thumbnail">
+    <img src="images/anomalyov.png" alt="Anomaly-OV">
   </div>
   <div class="pub-info">
     <b>Towards Zero-Shot Anomaly Detection and Reasoning with Multimodal Large Language Models</b><br>
@@ -104,7 +119,7 @@ Selected Publications
 
 <div class="pub-entry">
   <div class="pub-thumbnail">
-    <img src="images/presel.png" alt="ReGS">
+    <img src="images/presel.png" alt="PreSel">
   </div>
   <div class="pub-info">
     <b>Filter Images First, Generate Instructions Later: Pre-Instruction Data Selection for Visual Instruction Tuning</b><br>
@@ -119,7 +134,7 @@ Selected Publications
 
 <div class="pub-entry">
   <div class="pub-thumbnail">
-    <img src="images/xyscannet.png" alt="ReGS">
+    <img src="images/xyscannet.png" alt="XYScanNet">
   </div>
   <div class="pub-info">
     <b>XYScanNet: A State Space Model for Single Image Deblurring</b><br>
@@ -134,7 +149,7 @@ Selected Publications
 
 <div class="pub-entry">
   <div class="pub-thumbnail">
-    <img src="images/wildgs.jpg" alt="ReGS">
+    <img src="images/wildgs.jpg" alt="Wild-GS">
   </div>
   <div class="pub-info">
     <b>Wild-GS: Real-Time Novel View Synthesis from Unconstrained Photo Collections</b><br>
@@ -164,7 +179,7 @@ Selected Publications
 
 <div class="pub-entry">
   <div class="pub-thumbnail">
-    <img src="images/thermalnerf.png" alt="ReGS">
+    <img src="images/thermalnerf.png" alt="Thermal-NeRF">
   </div>
   <div class="pub-info">
     <b>Leveraging Thermal Modality to Enhance Reconstruction in Low-Light Conditions</b><br>
@@ -179,7 +194,7 @@ Selected Publications
 
 <div class="pub-entry">
   <div class="pub-thumbnail">
-    <img src="images/animal3d.png" alt="ReGS">
+    <img src="images/animal3d.png" alt="Animal3D">
   </div>
   <div class="pub-info">
     <b>Animal3D: A Comprehensive Dataset of 3D Animal Pose and Shape</b><br>
@@ -194,7 +209,7 @@ Selected Publications
 
 <div class="pub-entry">
   <div class="pub-thumbnail">
-    <img src="images/pidnet.png" alt="ReGS">
+    <img src="images/pidnet.png" alt="PIDNet">
   </div>
   <div class="pub-info">
     <b>PIDNet: A Real-time Semantic Segmentation Network Inspired by PID Controllers</b><br>
@@ -209,7 +224,7 @@ Selected Publications
 
 <div class="pub-entry">
   <div class="pub-thumbnail">
-    <img src="images/ev_ill.png" alt="ReGS">
+    <img src="images/ev_ill.png" alt="EV">
   </div>
   <div class="pub-info">
     <b>Communication-Efficient Design of Learning System for Energy Demand Forecasting of Electrical Vehicles</b><br>
