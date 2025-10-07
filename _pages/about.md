@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD student in Department of Computer Science of Johns Hopkins University and supervised by Prof. [Vishal M. Patel](https://engineering.jhu.edu/faculty/vishal-patel/) in [VIU](https://engineering.jhu.edu/vpatel36/team/vishalpatel/) Lab. I completed my M.Sc degree in Texas A&M University and worked closely with Prof. Shankar P. Bhattacharyya on Control Theory. Before coming to U.S., I obtained my bachelor degree from University of Science & Technology of China (USTC).
+I am a third-year PhD student in Department of Computer Science of Johns Hopkins University and supervised by Prof. [Vishal M. Patel](https://engineering.jhu.edu/faculty/vishal-patel/) in [VIU](https://engineering.jhu.edu/vpatel36/team/vishalpatel/) Lab. I completed my M.Sc degree in Texas A&M University and worked closely with Prof. Shankar P. Bhattacharyya on Control Theory. Before coming to U.S., I obtained my bachelor degree from University of Science & Technology of China (USTC).
 
-**I am looking for a research internship for Summer/Fall 2025!**
+**I am looking for a research internship for Spring/Summer 2026!**
 
 News
 ======
@@ -87,6 +87,7 @@ Selected Publications
   }
 </style>
 
+
 <div class="pub-entry">
   <div class="pub-thumbnail">
     <img src="images/freevis.png" alt="FreeViS">
@@ -98,6 +99,21 @@ Selected Publications
     <div class="buttons">
       <a href="https://arxiv.org/pdf/2510.01686" target="_blank">PDF</a>
       <a href="https://xujiacong.github.io/FreeViS/" target="_blank">Project Page</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-thumbnail">
+    <img src="images/physdiff.png" alt="Physdiff">
+  </div>
+  <div class="pub-info">
+    <b>Think Before You Diffuse: LLMs-Guided Physics-Aware Video Generation</b><br>
+    Ke Zhang, Cihan Xiao, <b>Jiacong Xu</b>, Yiqun Mei, Vishal M. Patel<br>
+    <i>Under Review</i>
+    <div class="buttons">
+      <a href="https://arxiv.org/pdf/2505.21653" target="_blank">PDF</a>
+      <a href="https://bwgzk-keke.github.io/DiffPhy/" target="_blank">Project Page</a>
     </div>
   </div>
 </div>
