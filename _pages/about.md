@@ -13,6 +13,7 @@ I am a third-year PhD student in Department of Computer Science of Johns Hopkins
 
 News
 ======
+- **\[2026.1\]** One paper was accepted by ICLR 2026!
 - **\[2025.5\]** One paper was accepted by CVPRW 2025!
 - **\[2025.3\]** Two paper were accepted by CVPR 2025 and selected as **Highlight**!
 - **\[2024.8\]** Two paper were accepted by NeurIPS 2024!
