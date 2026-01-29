@@ -9,7 +9,7 @@ redirect_from:
 
 I am a third-year PhD student in Department of Computer Science of Johns Hopkins University and supervised by Prof. [Vishal M. Patel](https://engineering.jhu.edu/faculty/vishal-patel/) in [VIU](https://engineering.jhu.edu/vpatel36/team/vishalpatel/) Lab. I completed my M.Sc degree in Texas A&M University and worked closely with Prof. Shankar P. Bhattacharyya on Control Theory. Before coming to U.S., I obtained my bachelor degree from University of Science & Technology of China (USTC).
 
-**I am looking for a research internship for Spring/Summer 2026!**
+**I am looking for a research internship for Summer 2026!**
 
 News
 ======
@@ -95,7 +95,7 @@ Selected Publications
   <div class="pub-info">
     <b>FreeViS: Training-free Video Stylization with Inconsistent References</b><br>
     <b>Jiacong Xu</b>, Yiqun Mei, Ke Zhang, Vishal M. Patel<br>
-    <i>Under Review</i>
+    <i>ICLR 2026</i>
     <div class="buttons">
       <a href="https://arxiv.org/pdf/2510.01686" target="_blank">PDF</a>
       <a href="https://xujiacong.github.io/FreeViS/" target="_blank">Project Page</a>
