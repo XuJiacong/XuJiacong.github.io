@@ -4,6 +4,7 @@ _site/
 
 # Ignore the directory for local files during development
 local/
+_config_local.yml
 
 # Ignore the Gemfile that is generated
 Gemfile.lock

@@ -1,6 +1,8 @@
 ---
 permalink: /
 title: "About Me"
+seo_title: "Jiacong Xu"
+description: "Jiacong Xu is a PhD candidate in Computer Science at Johns Hopkins University."
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,10 +11,53 @@ redirect_from:
 
 I am a third-year PhD student in Department of Computer Science of Johns Hopkins University and supervised by Prof. [Vishal M. Patel](https://engineering.jhu.edu/faculty/vishal-patel/) in [VIU](https://engineering.jhu.edu/vpatel36/team/vishalpatel/) Lab. I completed my M.Sc degree in Texas A&M University and worked closely with Prof. Shankar P. Bhattacharyya on Control Theory. Before coming to U.S., I obtained my bachelor degree from University of Science & Technology of China (USTC).
 
-**I am looking for a research internship for Summer 2026!**
+**I am looking for full-time opportunities starting in 2027!**
+
+Experience
+======
+
+<div class="experience-list">
+  <div class="experience-entry">
+    <div class="experience-logo experience-logo--meta">
+      <img src="images/company-meta.svg" alt="Meta logo">
+    </div>
+    <div class="experience-period">Jun 2026 - Present</div>
+    <div class="experience-info">
+      <b>Research Scientist Intern</b>
+      <span>Meta Superintelligence Labs</span>
+      <p>Streaming &amp; Real-Time Video Generation</p>
+    </div>
+  </div>
+
+  <div class="experience-entry">
+    <div class="experience-logo experience-logo--adobe">
+      <img src="images/company-adobe.svg" alt="Adobe logo">
+    </div>
+    <div class="experience-period">Jan 2026 - May 2026</div>
+    <div class="experience-info">
+      <b>Research Scientist Intern</b>
+      <span>Adobe Research</span>
+      <p>Video World Model</p>
+    </div>
+  </div>
+
+  <div class="experience-entry">
+    <div class="experience-logo experience-logo--hri">
+      <img src="images/company-hri-mark.png" alt="Honda Research Institute logo">
+    </div>
+    <div class="experience-period">May 2024 - Aug 2024</div>
+    <div class="experience-info">
+      <b>Research Intern</b>
+      <span>Honda Research Institute USA, Inc.</span>
+      <p>Post-training of Multimodal LLM</p>
+    </div>
+  </div>
+</div>
 
 News
 ======
+- **\[2026.6\]** One paper was accepted by ECCV 2026!
+- **\[2026.3\]** One paper was accepted by CVPR 2026!
 - **\[2026.1\]** One paper was accepted by ICLR 2026!
 - **\[2025.5\]** One paper was accepted by CVPRW 2025!
 - **\[2025.3\]** Two paper were accepted by CVPR 2025 and selected as **Highlight**!
@@ -24,70 +69,36 @@ News
 
 Selected Publications
 ======
-<style>
-  .pub-entry {
-    display: flex;
-    align-items: flex-start;
-    margin-bottom: 32px;
-    flex-wrap: wrap;
-  }
-  .pub-thumbnail {
-    width: 260px;
-    height: 160px;
-    background-color: #f7f7f7;
-    border-radius: 8px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.08);
-    flex-shrink: 0;
-  }
-  .pub-thumbnail img {
-    max-width: 100%;
-    max-height: 100%;
-    object-fit: contain;
-    border-radius: 4px;
-  }
-  .pub-info {
-    margin-left: 24px;
-    max-width: 600px;
-    flex: 1;
-  }
-  @media (max-width: 768px) {
-    .pub-entry {
-      flex-direction: column;
-      align-items: center;
-    }
-    .pub-info {
-      margin-left: 0;
-      margin-top: 16px;
-      text-align: center;
-    }
-  }
-  .pub-info b {
-    font-size: 17px;
-  }
-  .pub-info i {
-    color: #555;
-    display: block;
-    margin-top: 4px;
-  }
-  .pub-info .buttons {
-    margin-top: 6px;
-  }
-  .pub-info .buttons a {
-    display: inline-block;
-    padding: 6px 12px;
-    margin-right: 10px;
-    background: #222;
-    color: white;
-    text-decoration: none;
-    border-radius: 4px;
-    font-size: 14px;
-    box-shadow: 1px 1px 2px rgba(0,0,0,0.2);
-  }
-</style>
 
+<div class="pub-entry">
+  <div class="pub-thumbnail">
+    <img src="images/instanthdr.png" alt="InstantHDR">
+  </div>
+  <div class="pub-info">
+    <b>InstantHDR: Single-forward Gaussian Splatting for High Dynamic Range 3D Reconstruction</b><br>
+    Dingqiang Ye*, <b>Jiacong Xu*</b>, Jianglu Ping, Yuxiang Guo, Chao Fan, Vishal M. Patel<br>
+    <i>ECCV 2026</i>
+    <div class="buttons">
+      <a href="https://arxiv.org/pdf/2603.11298" target="_blank">PDF</a>
+      <a href="/" target="_blank">Project Page</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-thumbnail">
+    <img src="images/endless_world.png" alt="Endless World">
+  </div>
+  <div class="pub-info">
+    <b>Endless World: Real-Time 3D-Aware Long Video Generation</b><br>
+    Ke Zhang, <b>Jiacong Xu</b>, Yiqun Mei, Vishal M. Patel<br>
+    <i>CVPR 2026</i>
+    <div class="buttons">
+      <a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_Endless_World_Real-Time_3D-Aware_Long_Video_Generation_CVPR_2026_paper.pdf" target="_blank">PDF</a>
+      <a href="https://bwgzk-keke.github.io/EndlessWorld/" target="_blank">Project Page</a>
+    </div>
+  </div>
+</div>
 
 <div class="pub-entry">
   <div class="pub-thumbnail">
@@ -253,8 +264,3 @@ Selected Publications
     </div>
   </div>
 </div>
-
-
-
-
-
