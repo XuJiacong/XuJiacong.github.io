@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Please download my resume [here](https://jiacongxu666.github.io/files/my_cv.pdf).
+Please download my resume [here](https://xujiacong.github.io/files/my_cv.pdf).
