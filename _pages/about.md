@@ -104,7 +104,9 @@ Selected Publications
 
 <div class="pub-entry">
   <div class="pub-thumbnail">
-    <img src="images/endless_world.png" alt="Endless World">
+    <video autoplay muted loop playsinline preload="metadata" aria-label="Endless World video generation demo">
+      <source src="videos/endless-world-demo.mp4" type="video/mp4">
+    </video>
   </div>
   <div class="pub-info">
     <b>Endless World: Real-Time 3D-Aware Long Video Generation</b><br>
