@@ -36,6 +36,9 @@
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
+      {% if author.gmail %}
+        <li><a href="mailto:{{ author.gmail }}" class="js-copy-email" data-email="{{ author.gmail }}" title="Copy Gmail address"><i class="fab fa-fw fa-google icon-pad-right" aria-hidden="true"></i><span class="js-copy-email-label">Gmail</span></a></li>
+      {% endif %}
 
       <!-- Font Awesome and Academicons icons / Academic websites -->
       {% if author.academia %}

@@ -83,6 +83,56 @@ $(document).ready(function () {
     }
   });
 
+  // Copy the Gmail address while keeping mailto as a no-JavaScript fallback.
+  $(".js-copy-email").on("click", function (event) {
+    event.preventDefault();
+
+    var $link = $(this);
+    var $label = $link.find(".js-copy-email-label");
+    var email = $link.data("email");
+    var originalLabel = $label.text();
+
+    var showCopied = function () {
+      window.clearTimeout($link.data("copy-timeout"));
+      $label.text("Copied");
+      $link.attr("aria-label", "Gmail address copied");
+
+      var timeout = window.setTimeout(function () {
+        $label.text(originalLabel);
+        $link.removeAttr("aria-label");
+      }, 1600);
+
+      $link.data("copy-timeout", timeout);
+    };
+
+    var copyFallback = function () {
+      var $textarea = $("<textarea>")
+        .val(email)
+        .attr("readonly", "")
+        .css({ position: "fixed", opacity: 0 })
+        .appendTo("body");
+
+      $textarea[0].select();
+      var copied = document.execCommand("copy");
+      $textarea.remove();
+      return copied;
+    };
+
+    if (navigator.clipboard && window.isSecureContext) {
+      navigator.clipboard.writeText(email).then(showCopied).catch(function () {
+        if (copyFallback()) {
+          showCopied();
+        } else {
+          window.location.href = "mailto:" + email;
+        }
+      });
+    } else if (copyFallback()) {
+      showCopied();
+    } else {
+      window.location.href = "mailto:" + email;
+    }
+  });
+
   // init smooth scroll, this needs to be slightly more than then fixed masthead height
   $("a").smoothScroll({ 
     offset: -75, // needs to match $masthead-height
