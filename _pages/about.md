@@ -138,7 +138,9 @@ Selected Publications
 
 <div class="pub-entry">
   <div class="pub-thumbnail">
-    <img src="images/physdiff.png" alt="Physdiff">
+    <video autoplay muted loop playsinline preload="metadata" aria-label="DiffPhy physics-aware video generation demo">
+      <source src="videos/physdiff-demo.mp4" type="video/mp4">
+    </video>
   </div>
   <div class="pub-info">
     <b>Think Before You Diffuse: LLMs-Guided Physics-Aware Video Generation</b><br>
