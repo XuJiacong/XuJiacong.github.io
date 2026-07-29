@@ -121,7 +121,9 @@ Selected Publications
 
 <div class="pub-entry">
   <div class="pub-thumbnail">
-    <img src="images/freevis.png" alt="FreeViS">
+    <video autoplay muted loop playsinline preload="metadata" aria-label="FreeViS ink-style video demo">
+      <source src="videos/freevis-ink-demo.mp4" type="video/mp4">
+    </video>
   </div>
   <div class="pub-info">
     <b>FreeViS: Training-free Video Stylization with Inconsistent References</b><br>
