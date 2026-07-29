@@ -72,6 +72,23 @@ Selected Publications
 
 <div class="pub-entry">
   <div class="pub-thumbnail">
+    <video autoplay muted loop playsinline preload="metadata" aria-label="Wonder video world model demo">
+      <source src="videos/wonder-v2v-cartoon-game.mp4" type="video/mp4">
+    </video>
+  </div>
+  <div class="pub-info">
+    <b>Wonder: Video World Model Done Better</b><br>
+    <b>Jiacong Xu</b>, Hanwen Jiang, Zhixin Shu, Kalyan Sunkavalli, Vishal M. Patel, Yiqun Mei<br>
+    <i>arXiv 2026</i>
+    <div class="buttons">
+      <a href="https://arxiv.org/pdf/2607.26037" target="_blank">PDF</a>
+      <a href="https://wonder-world-model.github.io/" target="_blank">Project Page</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-thumbnail">
     <img src="images/instanthdr.png" alt="InstantHDR">
   </div>
   <div class="pub-info">

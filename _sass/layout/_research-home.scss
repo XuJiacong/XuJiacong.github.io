@@ -562,7 +562,9 @@ body.home-page .pub-thumbnail {
   justify-content: center;
 }
 
-body.home-page .pub-thumbnail img {
+body.home-page .pub-thumbnail img,
+body.home-page .pub-thumbnail video {
+  display: block;
   width: 100%;
   height: 100%;
   max-width: none;
@@ -572,7 +574,12 @@ body.home-page .pub-thumbnail img {
   transition: transform 220ms ease;
 }
 
-body.home-page .pub-entry:hover .pub-thumbnail img {
+body.home-page .pub-thumbnail video {
+  object-fit: cover;
+}
+
+body.home-page .pub-entry:hover .pub-thumbnail img,
+body.home-page .pub-entry:hover .pub-thumbnail video {
   transform: scale(1.025);
 }
 
