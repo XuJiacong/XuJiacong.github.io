@@ -83,7 +83,7 @@ $(document).ready(function () {
     }
   });
 
-  // Copy the Gmail address while keeping mailto as a no-JavaScript fallback.
+  // Copy the Gmail address without opening an email client.
   $(".js-copy-email").on("click", function (event) {
     event.preventDefault();
 
@@ -96,6 +96,19 @@ $(document).ready(function () {
       window.clearTimeout($link.data("copy-timeout"));
       $label.text("Copied");
       $link.attr("aria-label", "Gmail address copied");
+
+      var timeout = window.setTimeout(function () {
+        $label.text(originalLabel);
+        $link.removeAttr("aria-label");
+      }, 1600);
+
+      $link.data("copy-timeout", timeout);
+    };
+
+    var showCopyFailed = function () {
+      window.clearTimeout($link.data("copy-timeout"));
+      $label.text("Copy failed");
+      $link.attr("aria-label", "Unable to copy Gmail address");
 
       var timeout = window.setTimeout(function () {
         $label.text(originalLabel);
@@ -123,13 +136,13 @@ $(document).ready(function () {
         if (copyFallback()) {
           showCopied();
         } else {
-          window.location.href = "mailto:" + email;
+          showCopyFailed();
         }
       });
     } else if (copyFallback()) {
       showCopied();
     } else {
-      window.location.href = "mailto:" + email;
+      showCopyFailed();
     }
   });
 
