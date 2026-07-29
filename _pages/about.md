@@ -79,7 +79,7 @@ Selected Publications
   <div class="pub-info">
     <b>Wonder: Video World Model Done Better</b><br>
     <b>Jiacong Xu</b>, Hanwen Jiang, Zhixin Shu, Kalyan Sunkavalli, Vishal M. Patel, Yiqun Mei<br>
-    <i>arXiv 2026</i>
+    <i>Technical Report</i>
     <div class="buttons">
       <a href="https://arxiv.org/pdf/2607.26037" target="_blank">PDF</a>
       <a href="https://wonder-world-model.github.io/" target="_blank">Project Page</a>
